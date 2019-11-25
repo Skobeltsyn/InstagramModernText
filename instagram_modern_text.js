@@ -22,4 +22,4 @@ function instaModernize(targetClass){
   adjustSizes();
 }
 
-instaModernize("beautify-me");
+//instaModernize("beautify-me");
